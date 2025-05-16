@@ -14,4 +14,3 @@ Destinations are grouped and structured by region and budget for ease of mainten
 new destinations or modifying the existing entries can be done by simply appending or editing 
 the destination facts in the source code.
 
-Added by @RuchiraSilva
